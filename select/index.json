@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "しくない",
+  "base_artist": "MIMiNARI",
+  "createdAt": "2025-12-23T10:26:27.504988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "しくない (Instrumental)",
+      "artist": "MIMiNARI feat. 水槽",
+      "has_synced": true,
+      "path": "select/01_しくない_(Instrumental)_MIMiNARI_feat._水槽.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "しくない - Instrumental",
+      "artist": "MIMiNARI",
+      "has_synced": true,
+      "path": "select/02_しくない_-_Instrumental_MIMiNARI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "しくない",
+      "artist": "MIMiNARI",
+      "has_synced": true,
+      "path": "select/03_しくない_MIMiNARI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "しくない",
+      "artist": "MIMiNARI feat.水槽",
+      "has_synced": true,
+      "path": "select/04_しくない_MIMiNARI_feat.水槽.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "しくない (feat. 水槽)",
+      "artist": "MIMiNARI",
+      "has_synced": true,
+      "path": "select/05_しくない_(feat._水槽)_MIMiNARI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "しくない feat.水槽",
+      "artist": "MIMiNARI",
+      "has_synced": false,
+      "path": "select/pl_01_しくない_feat.水槽_MIMiNARI.txt"
+    }
+  ]
+}
